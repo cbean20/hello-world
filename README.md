@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hi Humans!
+
+Chandler here, I like looking up things about Tesla.
+I want a Tesla when I grow up.
